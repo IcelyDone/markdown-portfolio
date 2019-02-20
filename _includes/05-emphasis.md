@@ -1,1 +1,1 @@
-**Bold** and **brash**? More like, *belongs in the trash*!
+**Bold** and **brash**? More like, *belongs in the ***trash***!
