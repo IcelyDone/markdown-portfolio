@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- :ok_hand: :point_right: :chart_with_upwards_trend:
+- :thinking: :point_right: :chart_with_downwards_trend:
+- :joy: :octopus: :fork_and_knife:
